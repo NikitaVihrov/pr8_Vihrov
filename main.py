@@ -10,3 +10,4 @@ def password():
     return result
 
 p = password()
+print(p) 
